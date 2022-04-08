@@ -41,7 +41,7 @@ public class age {
            istedigini yapabilirsin print yapın.
  */
     public static void main(String[] args) {
-
+        System.out.println("hello");
 
     }
 
